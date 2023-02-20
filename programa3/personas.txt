@@ -1,0 +1,1 @@
+Persona{nombre='Juan', apellidopaterno='Pérez', apellidomaterno='zamitiz', edad='30'}|Persona{nombre='María', apellidopaterno='González', apellidomaterno='royer', edad='25'}|
